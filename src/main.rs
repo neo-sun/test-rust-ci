@@ -1,4 +1,6 @@
 fn main() {
-    println!("hhhhhhhhhhhhh");
+    println!("
+hhhhhhhhhhhhh"
+    );
     println!("Hello, world!");
 }
